@@ -1,0 +1,1 @@
+Place foundation-logo.jpg, media-banner.jpg, title-banner.png and chairman.png in this directory for the supplied design assets.
